@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAFFEBB-F9F5-40E4-90E8-48EDCC69A4CD}|\u94FE\u8868.vcxproj|C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DAFFEBB-F9F5-40E4-90E8-48EDCC69A4CD}|\u94FE\u8868.vcxproj|solutionrelative:\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAFFEBB-F9F5-40E4-90E8-48EDCC69A4CD}|\u94FE\u8868.vcxproj|C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u94FE\u8868.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DAFFEBB-F9F5-40E4-90E8-48EDCC69A4CD}|\u94FE\u8868.vcxproj|solutionrelative:\u94FE\u8868.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c",
+              "DocumentMoniker": "C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c",
+              "RelativeDocumentMoniker": "\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c",
+              "ToolTip": "C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c",
+              "RelativeToolTip": "\u5934\u90E8\u6DFB\u52A0\u94FE\u8868.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-11T14:02:13.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u94FE\u8868.c",
+              "DocumentMoniker": "C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u94FE\u8868.c",
+              "RelativeDocumentMoniker": "\u94FE\u8868.c",
+              "ToolTip": "C:\\Users\\huaiwei\\Desktop\\code\\\u7B2C\u4E8C\u6B21\u542C\u8BFE\\\u94FE\u8868\\\u94FE\u8868.c",
+              "RelativeToolTip": "\u94FE\u8868.c",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-10T01:05:06.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
